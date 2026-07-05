@@ -1,1 +1,2 @@
 Hello Git!
+today is Lesson 2.
