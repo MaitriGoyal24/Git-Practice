@@ -1,2 +1,4 @@
 Hello Git!
 today is Lesson 2.
+
+Learning VS Code editing
